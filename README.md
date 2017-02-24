@@ -2,13 +2,13 @@
 
 Implementation for our work of "Superpixel Segmentation Using Gaussian Mixture Model". The paper is under reviewing.
 
-![](https://github.com/ahban/GMMSP/blob/master/results/cat8x8.png)
-![](https://github.com/ahban/GMMSP/blob/master/results/cat10x10.png)
-![](https://github.com/ahban/GMMSP/blob/master/results/cat12x12.png)
-![](https://github.com/ahban/GMMSP/blob/master/results/cat14x14.png)
-![](https://github.com/ahban/GMMSP/blob/master/results/cat16x16.png)
-![](https://github.com/ahban/GMMSP/blob/master/results/cat18x18.png)
-![](https://github.com/ahban/GMMSP/blob/master/results/cat20x20.png)
+![](https://github.com/ahban/GMMSP/blob/master/results/cat8x8.png =80x)
+![](https://github.com/ahban/GMMSP/blob/master/results/cat10x10.png =80x)
+![](https://github.com/ahban/GMMSP/blob/master/results/cat12x12.png =80x)
+![](https://github.com/ahban/GMMSP/blob/master/results/cat14x14.png =80x)
+![](https://github.com/ahban/GMMSP/blob/master/results/cat16x16.png =80x)
+![](https://github.com/ahban/GMMSP/blob/master/results/cat18x18.png =80x)
+![](https://github.com/ahban/GMMSP/blob/master/results/cat20x20.png =80x)
 
 
 
