@@ -36,6 +36,7 @@ I took the picture of `cat.png` in the `images` path by myself. There is no copy
 ![](https://github.com/ahban/GMMSP/blob/master/results/cat8x8.png)
 ![](https://github.com/ahban/GMMSP/blob/master/results/cat14x14.png)
 ![](https://github.com/ahban/GMMSP/blob/master/results/cat20x20.png)
+![](https://github.com/ahban/GMMSP/blob/master/results/cat26x26.png)
 
 # Contact
 
