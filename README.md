@@ -27,7 +27,7 @@ git clone https://github.com/ahban/GMMSP.git
 and dobule click `gmmsp_demo.m` on your own local machine.
 
 
-I took the picture of `cat.png` in the `images` path. There is no copyright for this image.
+I took the picture of `cat.png` in the `images` path by myself. There is no copyright for this image.
 
 
 
