@@ -13,7 +13,7 @@ close all
 % image and v_x,v_y
 img = imread(image_name);
 
-for v_x = 8:2:20
+for v_x = 8:6:26
   v_y = v_x;
 
   % call GMMSP
