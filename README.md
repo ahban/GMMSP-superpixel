@@ -2,7 +2,7 @@
 
 Implementation for our work of "Superpixel Segmentation Using Gaussian Mixture Model". The paper is under reviewing.
 
-![](https://github.com/ahban/GMMSP/blob/master/result.png)
+![](https://github.com/ahban/GMMSP/blob/master/results/cat8x8.png)
 
 
 
