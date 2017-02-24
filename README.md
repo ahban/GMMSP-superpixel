@@ -2,14 +2,16 @@
 
 Implementation for our work of "Superpixel Segmentation Using Gaussian Mixture Model". The paper is under reviewing.
 
+
+
 # Citation
 
-If you use this code, please cite our paper 
+Currently, you can cite our work using the following bibtex. 
 
 ```
 @article{Ban16,
   author    = {Zhihua Ban and Jianguo Liu and Li Cao},
-  title     = {A novel Gaussian mixture model for superpixel segmentation},
+  title     = {Superpixel Segmentation Using Gaussian Mixture Model},
   journal   = {CoRR},
   volume    = {abs/1612.08792},
   year      = {2016},
