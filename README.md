@@ -19,8 +19,13 @@ Currently, you can cite our work using the following bibtex.
 
 
 # Run the code
-To run the code you need Windows x64 OS and MATLAB.
-If you already have them, just clone this repository to your local machine and dobule click `gmmsp_demo.m`
+To run the code, you need Windows x64 OS and MATLAB.
+If you already have them, just clone this repository to your local machine by
+```
+git clone https://github.com/ahban/GMMSP.git
+```
+and dobule click `gmmsp_demo.m` on your own local machine.
+
 
 I took the picture of `cat.png` in the `images` path. There is no copyright for this image.
 
