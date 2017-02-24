@@ -17,10 +17,7 @@ Currently, you can cite our work using the following bibtex.
   journal   = {CoRR},
   volume    = {abs/1612.08792},
   year      = {2016},
-  url       = {http://arxiv.org/abs/1612.08792},
-  timestamp = {Mon, 02 Jan 2017 11:09:15 +0100},
-  biburl    = {http://dblp.uni-trier.de/rec/bib/journals/corr/BanLC16},
-  bibsource = {dblp computer science bibliography, http://dblp.org}
+  url       = {http://arxiv.org/abs/1612.08792}
 }
 ```
 
