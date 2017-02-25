@@ -29,6 +29,16 @@ and dobule click `gmmsp_demo.m` on your own local machine.
 
 I took the picture of `cat.png` in the `images` path by myself. There is no copyright for this image.
 
+## trouble
+
+You may get an error that invlaid modules or some modules can not be found. 
+This is because some DLLs are missing on your PC. 
+You have to install "Visual C++ Redistributable Packages for Visual Studio 2013" from 
+[https://www.microsoft.com/en-us/download/details.aspx?id=40784](https://www.microsoft.com/en-us/download/details.aspx?id=40784),
+and make sure the installed DLLs can be found in `%PATH%`.
+I have copied three dependences, it should work on most PCs. 
+But if it cannot, please install the Redistributable Pacages by yourself.
+
 
 
 # Some results
