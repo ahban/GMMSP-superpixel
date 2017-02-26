@@ -4,7 +4,7 @@ Implementation for our work of "Superpixel Segmentation Using Gaussian Mixture M
 
 # Citation
 
-Currently, you can cite our work using the following bibtex. 
+Currently, you can cite our work using the following bibtex. 
 
 ```
 @article{Ban16,
