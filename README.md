@@ -19,7 +19,7 @@ Currently, you can cite our work using the following bibtex.
 
 
 # Run the code
-To run the code, you need Windows x64 OS and MATLAB (*at least R2015a*).
+To run the code, you need Windows x64 OS and MATLAB (**at least R2015a**).
 If you already have them, just clone this repository to your local machine by
 ```
 git clone https://github.com/ahban/GMMSP.git
