@@ -32,8 +32,8 @@ I took the picture of `cat.png` in the `images` path by myself. There is no copy
 ## trouble
 
 You may get an error that invlaid modules or some modules can not be found. 
-This is because some DLLs are missing on your PC. 
-You have to install "Visual C++ Redistributable Packages for Visual Studio 2013" from 
+This is because your PC misses some DLLs.
+You have to install ***Visual C++ Redistributable Packages for Visual Studio 2013*** from 
 [https://www.microsoft.com/en-us/download/details.aspx?id=40784](https://www.microsoft.com/en-us/download/details.aspx?id=40784),
 and make sure the installed DLLs can be found in `%PATH%`.
 I have copied three dependences, it should work on most PCs. 
