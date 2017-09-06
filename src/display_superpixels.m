@@ -1,4 +1,5 @@
 function itm = display_superpixels(label, img)
+  % part of boundaries are ploted
   boundaries = abs(imfilter(label, [0 -1 1],'replicate'))>0 | abs(imfilter(label, [0 -1 1]', 'replicate'))>0;
   %boundaries = boundaries | abs(imfilter(label, [1 -1 0],'replicate'))>0 | abs(imfilter(label, [1 -1 0]', 'replicate'))>0;
   itm1 = img(:,:,1);
