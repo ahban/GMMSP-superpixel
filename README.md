@@ -1,6 +1,6 @@
 # GMMSP
 
-Implementation for our work of "Superpixel Segmentation Using Gaussian Mixture Model". The paper is under reviewing.
+Implementation for our work of "Superpixel Segmentation Using Gaussian Mixture Model". 
 
 # Citation
 
