@@ -21,7 +21,7 @@ The new bibtex is as follows.
 }
 ```
 
-Currently, you can cite our work using the following bibtex. 
+This work was uploaded to arXiv two years ago with the following bibtex.
 
 ```
 @article{Ban16,
