@@ -4,6 +4,23 @@ Implementation for our work of "Superpixel Segmentation Using Gaussian Mixture M
 
 # Citation
 
+This method has been publised as a regular paper in IEEE Transactions on Image Processing.
+We would appreciate it if you develop your work based on our method and, of course, if you cite our paper.
+The new bibtex is as follows.
+
+```
+@article{Ban18,
+  author   =  {Zhihua Ban and Jianguo Liu and Li Cao},
+  journal  =  {IEEE Transactions on Image Processing},
+  title    =  {Superpixel Segmentation Using Gaussian Mixture Model},
+  year     =  {2018},
+  volume   =  {27},
+  number   =  {8},
+  pages    =  {4105-4117},
+  doi      =  {10.1109/TIP.2018.2836306}
+}
+```
+
 Currently, you can cite our work using the following bibtex. 
 
 ```
@@ -47,7 +64,6 @@ However, if you prefer, you can compile the code by yourself, as you may want to
 We provide a script for your own compilation in `src`.
 Just change directory to `src`, and run `compileme.m`.
 
-Note: You better have some knowledge on `mex` command.
 
 # Some results
 
