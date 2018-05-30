@@ -2,7 +2,7 @@
 
 Implementation for our work of "Superpixel Segmentation Using Gaussian Mixture Model". 
 
-A parallel implementation on GPU can be found at [gGMMSP](https://github.com/ahban/gGMMSP) which runs very fast (about 1000FPS for 320$\times$240 images on GTX 1080).
+A parallel implementation on GPU can be found at [gGMMSP](https://github.com/ahban/gGMMSP) which runs very fast (about 1000FPS for 320x240 images on GTX 1080).
 
 # Citation
 
