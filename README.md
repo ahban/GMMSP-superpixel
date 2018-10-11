@@ -24,7 +24,7 @@ The new bibtex is as follows.
 ```
 
 This work was uploaded to arXiv two years ago with the following bibtex.
-
+**please note that the following paper is an early version of this work. If you want to understand the algorithm, you have to find the paper above. Unfortunatly, I cannot upload the pdf of the above paper due to IEEE copyright :(.**
 ```
 @article{Ban16,
   author    = {Zhihua Ban and Jianguo Liu and Li Cao},
